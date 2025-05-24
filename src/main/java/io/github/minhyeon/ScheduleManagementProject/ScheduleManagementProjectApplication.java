@@ -9,4 +9,5 @@ public class ScheduleManagementProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ScheduleManagementProjectApplication.class, args);
 	}
+
 }
