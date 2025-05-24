@@ -1,4 +1,4 @@
-# schedule-management (~Lv 2)
+# schedule-management (~Lv 3)
 Let's build schedule management application (with kakao tech campus)
 
 ## API Documentation
